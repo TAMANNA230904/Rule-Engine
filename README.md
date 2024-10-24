@@ -18,7 +18,7 @@ The project follows a 3-tier architecture:
 - **Backend**: Node.js, Express
 - **Database**: MongoDB (for storing rules)
 
-![Architecture Diagram](./path-to-your-architecture-diagram.png)
+![Architecture Diagram](https://drive.google.com/file/d/1q6gpNLqDVSYjBzq5Mvnjp9zr2UVEbfCd/view?usp=sharing)
 
 ## Technologies Used
 
@@ -32,10 +32,37 @@ The project follows a 3-tier architecture:
 ### Prerequisites
 Ensure that you have the following installed:
 - Node.js
-- MongoDB
 
 ### Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/rule-engine.git
+
+2.Install dependencies for backend:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/rule-engine.git
+
+2.Install dependencies for backend:
+   ```bash
+   cd backend
+   npm install 
+
+3.Install dependencies for frontend:
+   ```bash
+   cd backend
+   npm install
+
+4.Create a MongoDB Cluster and get a connection string.
+
+5. Running backend server
+   ```bash
+   npm run dev
+
+6.Running frontend server
+  ```bash
+   npm run dev
+
+[View UI](https://drive.google.com/file/d/100TPI2OiR_i_uo92axn_Owb2bceUi5ta/view?usp=sharing)
+
