@@ -38,27 +38,27 @@ Ensure that you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/rule-engine.git
-    ```
+   ```
 
-2.Install dependencies for backend:
+2. Install dependencies for backend:
    ```bash
    cd backend
    npm install 
-    ```
-3.Install dependencies for frontend:
+   ```
+3. Install dependencies for frontend:
    ```bash
    cd backend
    npm install
    ```
 
-4.Create a MongoDB Cluster and get a connection string.
+4. Create a MongoDB Cluster and get a connection string.
 
 5. Running backend server
    ```bash
    npm run dev
-    ```
-6.Running frontend server
-  ```bash
+   ```
+6. Running frontend server
+   ```bash
    npm run dev
    ```
 [View UI](https://drive.google.com/file/d/100TPI2OiR_i_uo92axn_Owb2bceUi5ta/view?usp=sharing)
